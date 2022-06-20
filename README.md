@@ -2,4 +2,5 @@
 //It is best resources who want to learn programming in C
 I am also a student and learning it .
 
-So it will also help you
+So it will also help you in your Exams 
+
